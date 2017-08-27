@@ -22,3 +22,7 @@ An extension to the project would be to provide recommendations based on the use
 
 ### Glossary
 **Session -** A session refers to the grouping of semantically related web pages.
+
+### Comments
+
+Sounds like a good solution to organize content.  What browser do you think would be best to implement it in first?
